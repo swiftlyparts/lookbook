@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updated": "2026-08-03",
+  "note": "Driving for Doors look book source. One entry per capture. Tags are derived from the production filename + DFD-POST-LOG.md. New captures append to the END of doors[]; the gallery renders newest-first by reversing.",
+  "styles": [
+    "Full View",
+    "Carriage House",
+    "Long Panel",
+    "Modern Flush",
+    "Raised Panel",
+    "Short Panel",
+    "Wood Look"
+  ],
+  "doors": [
+    {
+      "id": "dfd-001-peoria-classica3000",
+      "file": "driving-for-doors-peoria-lake-pleasant-happy-valley-carriage-house.jpg",
+      "w": 1600,
+      "h": 1200,
+      "style": "Carriage House",
+      "neighborhood": "Lake Pleasant Pkwy & Happy Valley Rd",
+      "city": "Peoria",
+      "brand": "Amarr",
+      "model": "Classica 3000",
+      "color": "Almond",
+      "captured": "2026-07-31",
+      "alt": "Almond carriage house garage door with arched glass, Peoria AZ",
+      "caption": "Amarr Classica 3000 carriage house in almond. Triple layer, 2in polyurethane, R-13.35, Tuscany panel with Seine arched glass and Blue Ridge decorative hardware."
+    },
+    {
+      "id": "dfd-002-tortosa-clopay-longpanel",
+      "file": "driving-for-doors-tortosa-maricopa-clopay-long-panel-tinted-gray.jpg",
+      "w": 480,
+      "h": 360,
+      "style": "Long Panel",
+      "neighborhood": "Tortosa",
+      "city": "Maricopa",
+      "brand": "Clopay",
+      "model": "Classic Steel Long Panel",
+      "color": "Terracotta",
+      "captured": "2026-08-02",
+      "alt": "Terracotta long panel steel garage door with tinted gray windows, Tortosa in Maricopa AZ",
+      "caption": "Clopay Classic Steel long panel in terracotta. Vinyl-backed insulated steel around R-7.0, with Tinted Gray glass set mid-row instead of the usual top row."
+    },
+    {
+      "id": "dfd-003-fountainhills-vista1000",
+      "file": "driving-for-doors-fountainhills-amarr-vista1000-fullview-quakerbronze-frost.jpg",
+      "w": 1600,
+      "h": 1200,
+      "style": "Full View",
+      "neighborhood": "Fountain Hills",
+      "city": "Fountain Hills",
+      "brand": "Amarr",
+      "model": "Vista 1000",
+      "color": "Quaker Bronze",
+      "captured": "2026-08-02",
+      "alt": "Quaker bronze full view aluminum garage door with frost glass, Fountain Hills AZ",
+      "caption": "Amarr Vista 1000 full view aluminum in Quaker Bronze with Frost glass. ClearView aluminum strut system and WaterLok joint sealing."
+    }
+  ]
+}
