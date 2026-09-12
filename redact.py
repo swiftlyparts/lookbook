@@ -8,6 +8,11 @@ REDACT = {
   "driving-for-doors-tortosa-maricopa-clopay-long-panel-tinted-gray.jpg": [
       (0.860, 0.730, 0.978, 0.822)
   ],
+  # Address plaque ("1219") on the right-hand pillar, not caught before archiving.
+  # Found during the 9/11/26 Look Book Refresh pass (board #175).
+  "driving-for-doors-phoenix-sunnyslope-amarr-lincoln-3138-black-reeded-glass-INSTALLED.jpg": [
+      (0.826, 0.425, 0.880, 0.474)
+  ],
 }
 
 def redact(im, fn):

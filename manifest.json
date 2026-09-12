@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-03",
+  "updated": "2026-09-11",
   "note": "Driving for Doors look book source. One entry per capture. Tags are derived from the production filename + DFD-POST-LOG.md. New captures append to the END of doors[]; the gallery renders newest-first by reversing.",
   "styles": [
     "Full View",
@@ -9,7 +9,8 @@
     "Modern Flush",
     "Raised Panel",
     "Short Panel",
-    "Wood Look"
+    "Wood Look",
+    "Narrow Panel"
   ],
   "doors": [
     {
@@ -56,6 +57,95 @@
       "captured": "2026-08-02",
       "alt": "Quaker bronze full view aluminum garage door with frost glass, Fountain Hills AZ",
       "caption": "Amarr Vista 1000 full view aluminum in Quaker Bronze with Frost glass. ClearView aluminum strut system and WaterLok joint sealing."
+    },
+    {
+      "id": "dfd-004-scottsdale-thermoguard",
+      "file": "driving-for-doors-scottsdale-midland-thermoguard-black-satin-glass-INSTALLED.jpg",
+      "w": 1600,
+      "h": 1200,
+      "style": "Modern Flush",
+      "neighborhood": "56th St & Greenway",
+      "city": "Scottsdale",
+      "brand": "Midland",
+      "model": "ThermoGuard",
+      "color": "Black",
+      "captured": "2026-08-05",
+      "alt": "Black modern flush panel garage door with satin glass, Scottsdale AZ",
+      "caption": "Midland ThermoGuard flush panel in black with stacked long-panel Satin glass. 12in radius track, R-18 insulation. Installed by Swiftly with a LiftMaster 6580L Plus Series belt drive, battery backup, myQ, and 360 camera."
+    },
+    {
+      "id": "dfd-005-phoenix-lincoln3138",
+      "file": "driving-for-doors-phoenix-sunnyslope-amarr-lincoln-3138-black-reeded-glass-INSTALLED.jpg",
+      "w": 1600,
+      "h": 1200,
+      "style": "Long Panel",
+      "neighborhood": "Sunnyslope",
+      "city": "Phoenix",
+      "brand": "Amarr",
+      "model": "Lincoln 3138",
+      "color": "Black",
+      "captured": "2026-08-06",
+      "alt": "Black steel garage door with reeded glass windows, Sunnyslope Phoenix AZ",
+      "caption": "Amarr Lincoln 3138 in black with custom stacked reeded glass matched to the homeowner's front door. Steel-backed insulated 1-3/8in door, 15in radius track, High Cycle 50,000-cycle springs. Installed by Swiftly, re-hooked to the homeowner's existing LiftMaster opener."
+    },
+    {
+      "id": "dfd-006-avondale-doorlink3630",
+      "file": "driving-for-doors-avondale-doorlink-3630-walnut-carriage-house.jpg",
+      "w": 1600,
+      "h": 1362,
+      "style": "Carriage House",
+      "city": "Avondale",
+      "brand": "DoorLink",
+      "model": "3630",
+      "color": "Walnut",
+      "captured": "2026-08-14",
+      "alt": "Walnut wood-grain carriage house garage door, Avondale AZ",
+      "caption": "DoorLink 3630 grooved panel in a walnut wood-grain finish. 2in insulated steel sandwich panel, R-10.25, with spade-style strap hardware and matching pull handles."
+    },
+    {
+      "id": "dfd-007-arcadia-canyonridge",
+      "file": "driving-for-doors-arcadia-clopay-canyonridge-customcolor-bluegray-crossbuck.jpg",
+      "w": 1600,
+      "h": 980,
+      "style": "Carriage House",
+      "neighborhood": "Arcadia",
+      "city": "Arcadia",
+      "brand": "Clopay",
+      "model": "Canyon Ridge Collection",
+      "color": "Custom Color Blast Blue-Gray",
+      "captured": "2026-08-19",
+      "alt": "Custom blue-gray carriage house garage door with crossbuck overlay, Arcadia AZ",
+      "caption": "Clopay Canyon Ridge Collection (our best read on this one), Ultra-Grain Cypress finish in a custom Color Blast blue-gray with a crossbuck overlay and square-pane glass. Steel and Intellicore polyurethane insulated construction."
+    },
+    {
+      "id": "dfd-008-gilbert-bridgeport-bd5nv",
+      "file": "driving-for-doors-gilbert-morrison-ranch-clopay-bridgeport-bd5nv-narrow-panel-white-obscure-glass.jpg",
+      "w": 1600,
+      "h": 1382,
+      "style": "Narrow Panel",
+      "neighborhood": "Morrison Ranch",
+      "city": "Gilbert",
+      "brand": "Clopay",
+      "model": "Bridgeport BD5NV",
+      "color": "White",
+      "captured": "2026-08-26",
+      "alt": "White narrow recessed panel garage door with obscure glass windows, Gilbert AZ",
+      "caption": "Clopay Bridgeport Steel, Model BD5NV, Narrow Recessed Panel in white with a four-lite row of Obscure glass. 2-layer construction, vinyl-backed polystyrene insulation, R-6.3, 25 gauge steel."
+    },
+    {
+      "id": "dfd-009-tempe-waynedalton8300",
+      "file": "driving-for-doors-tempe-elliot-rural-waynedalton-8300-westerncedar-obscure-glass.jpg",
+      "w": 1600,
+      "h": 1200,
+      "style": "Long Panel",
+      "neighborhood": "Elliot Rd & Rural Rd",
+      "city": "Tempe",
+      "brand": "Wayne Dalton",
+      "model": "Classic Steel 8300/8300AG",
+      "color": "Western Cedar",
+      "captured": "2026-08-26",
+      "alt": "Western cedar wood-grain garage door with arched glass windows, Tempe AZ",
+      "caption": "Wayne Dalton Classic Steel Model 8300/8300AG, Wood Grain Impressions finish in Western Cedar. Cascade Long arched window row over Vertical Long Panel bead-board bands, Spear decorative hardware kit, all Obscure glass. 3-layer steel/insulation/steel construction, R-12.12."
     }
   ]
 }
